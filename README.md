@@ -17,7 +17,7 @@ Aplicação desenvolvida como parte da Atividade Prática Orientada (APO) da dis
 
 ## 💻 Como Executar
 1. Instale o XAMPP.
-2. Coloque a pasta `apo-php` em `htdocs`.
+2. Coloque a pasta `apo-php-main` em `htdocs`.
 3. Acesse: http://localhost/apo-php-main/
 4. Preencha o formulário e gere seu currículo.
 5. Para baixar, clique em **“Baixar Currículo (PDF)”**.
@@ -25,4 +25,5 @@ Aplicação desenvolvida como parte da Atividade Prática Orientada (APO) da dis
 ## 👨‍💻 Autor
 Desenvolvido por João Lucas Vieira dos Santos – RA 09054284  
 UNIPAR EAD – Fundamentos de Programação para Internet
+
 

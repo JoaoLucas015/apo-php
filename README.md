@@ -22,9 +22,10 @@ Aplicação desenvolvida como parte da Atividade Prática Orientada (APO) da dis
 4. Preencha o formulário e gere seu currículo.
 5. Para baixar, clique em **“Baixar Currículo (PDF)”**.
 
-## 👨‍💻 Autor
+##  Autor
 Desenvolvido por João Lucas Vieira dos Santos – RA 09054284  
 UNIPAR EAD – Fundamentos de Programação para Internet
+
 
 
 
